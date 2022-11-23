@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprender javascript na pratica
 - 🌱 I’m currently learning  javascript
 - 💞️ I’m looking to collaborate on  trabalho voluntario
-- 📫 How to reach me  jrclovis100@gmail.com
+- 📫 como me encontrar jrclovis100@gmail.com
 
 <!---
 Klovisjr/Klovisjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
