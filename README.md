@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on  trabalho voluntario
 - 📫 como me encontrar jrclovis100@gmail.com
 
-<!---
-Klovisjr/Klovisjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klovisjr&show_icons=false&theme=dark"/>
+
+</div>
