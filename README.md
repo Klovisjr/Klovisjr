@@ -1,6 +1,6 @@
 - 👋 olá, sou o klovis jr
 - 👀 I’m interested in aprender javascript na pratica
-- 🌱 I’m currently learning  javascript
+- 🌱 I’m currently learning ADS|Analise e Desenvolvimento de Sistema
 - 💞️ I’m looking to collaborate on  trabalho voluntario
 - 📫 como me encontrar jrclovis100@gmail.com
 
